@@ -1,0 +1,14 @@
+baseurl: /
+title: Relational Representation Learning
+subtitle: 
+author: Aditya Grover
+simple_search: http://google.com/search
+description: NIPS 2018 Workshop
+name: r2learning
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+destination: docs
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'variables.scss', 'rouge-github.scss', 'normalize.scss', 'jekyll-theme-cayman.gemspec', 'README.md']
+theme: jekyll-theme-cayman
