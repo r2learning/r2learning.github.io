@@ -3,7 +3,7 @@ layout: default
 title: Relational Representation Learning
 ---
 
-## Date/Location
+## <a name="overview"></a> Date/Location
 * December 8, 2018
 * Palais des Congrès de Montréal, Montréal, Canada
 
@@ -17,7 +17,7 @@ title: Relational Representation Learning
 [Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University  
 
 
-## Abstract
+## <a name="abstract"></a> Abstract
 
 Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, chemical and biological processes, code analysis, and decision-making in multi-agent systems.
 
@@ -33,7 +33,7 @@ This workshop aims to bring together researchers from both academia and industry
 * Any other topic of interest for relational representation learning
 
 
-## Invited Speakers
+## <a name="speakers"></a> Invited Speakers
 [Joan Bruna](https://cims.nyu.edu/~bruna/), New York University  
 [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington  
 [Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind  
@@ -42,8 +42,8 @@ This workshop aims to bring together researchers from both academia and industry
 More TBA  
 
 
-## Call for Papers
+## <a name="submission"></a> Call for Papers
 Coming soon!
 
-## Schedule
+## <a name="schedule"></a> Schedule
 Coming soon!
