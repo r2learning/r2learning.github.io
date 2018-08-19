@@ -3,21 +3,10 @@ layout: default
 title: Relational Representation Learning
 ---
 
-## <a name="overview"></a> Date/Location
-* December 8, 2018
-* Palais des Congrès de Montréal, Montréal, Canada
+## <a name="overview"></a> Overview
 
-## Organizers
-[Aditya Grover](http://aditya-grover.github.io/), Stanford University  
-[Paroma Varma](https://paroma.github.io/), Stanford University   
-[Fred Sala](https://stanford.edu/~fredsala/), Stanford University  
-[Steven Holtzen](https://web.cs.ucla.edu/~sholtzen/), University of California, Los Angeles  
-[Jennifer Neville](https://www.cs.purdue.edu/homes/neville/index.html), Purdue University  
-[Stefano Ermon](https://cs.stanford.edu/~ermon/), Stanford University  
-[Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University  
-
-
-## <a name="abstract"></a> Abstract
+**Date:** December 8, 2018  
+**Location:** Palais des Congrès de Montréal, Montréal, Canada
 
 Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, chemical and biological processes, code analysis, and decision-making in multi-agent systems.
 
@@ -41,6 +30,14 @@ This workshop aims to bring together researchers from both academia and industry
 [Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind  
 More TBA  
 
+## Organizers <a name="speakers"></a> 
+[Aditya Grover](http://aditya-grover.github.io/), Stanford University  
+[Paroma Varma](https://paroma.github.io/), Stanford University   
+[Fred Sala](https://stanford.edu/~fredsala/), Stanford University  
+[Steven Holtzen](https://web.cs.ucla.edu/~sholtzen/), University of California, Los Angeles  
+[Jennifer Neville](https://www.cs.purdue.edu/homes/neville/index.html), Purdue University  
+[Stefano Ermon](https://cs.stanford.edu/~ermon/), Stanford University  
+[Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University  
 
 ## <a name="submission"></a> Call for Papers
 Coming soon!
