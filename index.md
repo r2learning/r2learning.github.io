@@ -43,7 +43,7 @@ Authors will not be penalized for including an appendix of supplementary materia
 
 Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
 
-**Submission Site:** Coming Soon!
+**Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
 
 ### Peer Review and Acceptance Criteria
 All submissions will go through a double-blind per review process. Accepted papers will be chosen based on techincal merit, interest, and novelty. 
