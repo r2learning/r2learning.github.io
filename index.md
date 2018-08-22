@@ -41,15 +41,15 @@ All accepted papers will be included in one of the two poster presentation and l
 
 Topics include, but are not limited to:
 
-* Algorithmic approaches: probabilistic generative models, message-passing neural networks, embedding methods, dimensionality reduction techniques, group-invariant architectures etc. for relational data
-* Theoretical aspects: when and why do learned representations aid relational reasoning? How does the non-i.i.d. nature of relational data conflict with our current understanding of representation learning?
-* Optimization and scalability challenges due to the inherent discreteness and curse of dimensionality of relational datasets and challenges in negative sampling
+* Algorithmic approaches: E.g., probabilistic generative models, message-passing neural networks, embedding methods, dimensionality reduction techniques, group-invariant architectures etc. for relational data
+* Theoretical aspects: E.g., when and why do learned representations aid relational reasoning? How does the non-i.i.d. nature of relational data conflict with our current understanding of representation learning?
+* Optimization and scalability challenges due to the inherent discreteness and curse of dimensionality of relational datasets
 * Evaluation of learned relational representations
-* Security and privacy challenges in learning and inference
+* Security and privacy challenges
 * Domain-specific applications
 * Any other topic of interest
 
-We also welcome and encourage position papers on the subject.
+We also welcome and encourage position papers on this subject.
 
 ### Important Dates 
 * **Submission Deadline: October 19th, 2018, 23:59 PST**
