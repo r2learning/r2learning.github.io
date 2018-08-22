@@ -27,18 +27,6 @@ This workshop aims to bring together researchers from both academia and industry
 Coming Soon!
 
 ## <a name="submission"></a> Call for Papers
-### Paper Submission Instructions
-Workshop papers should be at most **4 pages of content**, including text and figures, excluding references. Authors can include an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
-
-Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
-
-**Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
-
-### Peer Review and Acceptance Criteria
-All submissions will go through a double-blind per review process. Accepted papers will be chosen based on techincal merit, interest, and novelty. 
-
-All accepted papers will be included in one of the two poster presentation and lightning talk sessions on the day of the workshop. Some accepted papers will be invited to give a contributed oral talks. 
-
 Topics include, but are not limited to:
 
 * Algorithmic approaches: E.g., probabilistic generative models, message-passing neural networks, embedding methods, dimensionality reduction techniques, group-invariant architectures etc. for relational data
@@ -50,6 +38,19 @@ Topics include, but are not limited to:
 * Any other topic of interest
 
 We also welcome and encourage position papers on this subject.
+
+### Submission Guidelines
+Workshop papers should be at most **4 pages of content**, including text and figures, excluding references. Authors can include an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
+
+Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
+
+**Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
+
+### Peer Review and Acceptance Criteria
+All submissions will go through a double-blind peer review process. Accepted papers will be chosen based on techincal merit, interest, and novelty. The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. Authors should state any overlapping published work at the time of submission.
+
+All accepted papers will be included in one of the two poster presentation and lightning talk sessions on the day of the workshop. Some accepted papers will be invited to give contributed oral talks. Final versions of accepted papers will be posted on the workshop website. These are archival but do not constitute a proceedings and can be submitted elsewhere.
+
 
 ### Important Dates 
 * **Submission Deadline: October 19th, 2018, 23:59 PST**
