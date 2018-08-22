@@ -23,24 +23,44 @@ This workshop aims to bring together researchers from both academia and industry
 
 
 ## <a name="speakers"></a> Invited Speakers
-[Joan Bruna](https://cims.nyu.edu/~bruna/), New York University  
-[Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington  
-[Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind  
-[Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research  
-[Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind  
-More TBA  
+[Joan Bruna](https://cims.nyu.edu/~bruna/), New York University    
+[Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington   
+[Lise Getoor](https://getoor.soe.ucsc.edu/home), UC Santa Cruz   
+[Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind     
+[Marina Meila](https://www.stat.washington.edu/mmp/), University of Washington   
+[Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research     
+[Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind    
+More TBA! 
 
-## Organizers <a name="speakers"></a> 
+## <a name="schedule"></a> Schedule
+Coming Soon!
+
+## <a name="submission"></a> Call for Papers
+### Paper Submission Instructions
+Workshop papers should be at most **4 pages of content**, including text and figures. Additional pages containing only bibliographic references can be included without penalty. 
+
+Authors will not be penalized for including an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
+
+Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
+
+**Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
+
+### Peer Review and Acceptance Criteria
+All submissions will go through a double-blind per review process. Accepted papers will be chosen based on techincal merit, interest, and novelty. 
+
+All accepted papers will be included in one of the two poster presentation and lightning talk sessions on the day of the workshop. Some accepted papers will be invited to give a contributed oral talks. 
+
+### Important Dates 
+* **Submission Deadline: October 19th, 2018, 23:59 PST**
+* Notification of Acceptance: November 2nd, 2018
+* Camera-ready Due: November 16th, 2018
+* Workshop: Decmeber 8, 2018
+
+## Organizers <a name="organizers"></a> 
 [Aditya Grover](http://aditya-grover.github.io/), Stanford University  
 [Paroma Varma](https://paroma.github.io/), Stanford University   
 [Fred Sala](https://stanford.edu/~fredsala/), Stanford University  
 [Steven Holtzen](https://web.cs.ucla.edu/~sholtzen/), University of California, Los Angeles  
 [Jennifer Neville](https://www.cs.purdue.edu/homes/neville/index.html), Purdue University  
 [Stefano Ermon](https://cs.stanford.edu/~ermon/), Stanford University  
-[Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University  
-
-## <a name="submission"></a> Call for Papers
-Coming soon!
-
-## <a name="schedule"></a> Schedule
-Coming soon!
+[Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University
