@@ -8,7 +8,7 @@ title: Relational Representation Learning
 **Date:** December 8, 2018  
 **Location:** Palais des Congrès de Montréal, Montréal, Canada
 
-Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, reasoning over chemical and biological domains, program synthesis and analysis, and decision-making in multi-agent systems.
+Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas such as scene understanding, visual question-answering, understanding chemical and biological processes, program synthesis and analysis, decision-making in multi-agent systems and many others.
 
 How should we rethink classical representation learning theory for relational representations? Classical approaches based on dimensionality reduction techniques such as isoMap and spectral decompositions still serve as strong baselines and are slowly paving the way for modern methods in relational representation learning based on random walks over graphs, message-passing in neural networks, group-invariant deep architectures etc. amongst many others. How can systems be designed and potentially deployed for large scale representation learning? What are promising avenues, beyond traditional applications like knowledge base and social network analysis, that can benefit from relational representation learning?
 
@@ -37,7 +37,7 @@ Topics include, but are not limited to:
 * Domain-specific applications
 * Any other topic of interest
 
-We also welcome and encourage position papers on this subject.
+We welcome and encourage position papers on this subject. We are also particularly interested in papers that introduce datasets and competitions to further progress in the field.
 
 ### Submission Guidelines
 Workshop papers should be at most **4 pages of content**, including text and figures, excluding references. Authors can include an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
@@ -57,6 +57,7 @@ All accepted papers will be included in one of the two poster presentation and l
 * Notification of Acceptance: November 2nd, 2018
 * Camera-ready Due: November 16th, 2018
 * Workshop: December 8, 2018
+* Contact: r2learning@googlegroups.com
 
 ## Organizers <a name="organizers"></a> 
 [Aditya Grover](http://aditya-grover.github.io/), Stanford University  
