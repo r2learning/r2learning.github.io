@@ -6,7 +6,7 @@ title: Relational Representation Learning
 ## <a name="overview"></a> Overview
 
 **Date:** December 8, 2018  
-**Location:** Palais des Congrès de Montréal, Montréal, Canada
+**Location:** Room 517A, Palais des Congrès de Montréal, Montréal, Canada
 
 Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, chemical and biological processes, code analysis, and decision-making in multi-agent systems.
 
@@ -41,7 +41,7 @@ Workshop papers should be at most **4 pages of content**, including text and fig
 
 Authors will not be penalized for including an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
 
-Papers should be anonymized and adhere to the NIPS conference format: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
+Papers should be anonymized and adhere to the NeurIPS conference format: [https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles)
 
 **Submission Site:** [https://cmt3.research.microsoft.com/R2L2018](https://cmt3.research.microsoft.com/R2L2018)
 

@@ -3,7 +3,7 @@ title: Relational Representation Learning
 subtitle: 
 author: Aditya Grover
 simple_search: http://google.com/search
-description: NIPS 2018 Workshop
+description: NeurIPS 2018 Workshop
 name: r2learning
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
