@@ -14,13 +14,14 @@ How should we rethink classical representation learning theory for relational re
 
 This workshop aims to bring together researchers from both academia and industry interested in addressing various aspects of representation learning for relational reasoning. 
 
-## <a name="speakers"></a> Invited Speakers
+## <a name="speakers"></a> Invited Speakers & Panelists
 [Joan Bruna](https://cims.nyu.edu/~bruna/), New York University    
 [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington   
 [Lise Getoor](https://getoor.soe.ucsc.edu/home), University of California, Santa Cruz   
 [Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind     
 [Marina Meila](https://www.stat.washington.edu/mmp/), University of Washington   
-[Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research     
+[Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research  
+
 
 ## <a name="schedule"></a> Schedule
 
@@ -42,7 +43,7 @@ This workshop aims to bring together researchers from both academia and industry
 |3:00-3:30 PM  | Coffee Break + Poster Session 2|
 |3:30-4:00 PM  | **Invited Talk:**  Joan Bruna|
 |4:00-4:30 PM  | **Invited Talk:**  Pedro Domingos| 
-|4:30-5:00 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
+|4:30-5:15 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilto, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
 |5:15-5:30 PM  | Closing Remarks|
 |5:30-6:30 PM  | Poster Session|
 
