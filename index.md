@@ -116,3 +116,45 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Leveraging Representation and Inference through Deep Relational Learning](assets/papers/CameraReadySubmission 42.pdf). Maria Leonor Pacheco, Ibrahim Dalal, Dan Goldwasser 
 * [Learning Embeddings for Approximate Lifted Inference in MLNs](assets/papers/CameraReadySubmission 48.pdf). Maminur Islam, Somdeb Sarkhel, Deepak Venugopal 
 * [Quantum Machine Learning on Knowledge Graphs](assets/papers/CameraReadySubmission 39.pdf). Yunpu Ma, Volker Tresp 
+
+## Program Committee
+Thank you to our programming committee who reviewed submitted papers!
+
+* Albert Gu, Stanford University
+* Alexander Ratner, Stanford University
+* Alexander Gaunt, Microsoft Research
+* Avner May, Stanford University
+* Beliz Gunel, Stanford University
+* Bryan He, Stanford University
+* Bryan Perozzi, Stonybrook University
+* Changping Meng, Purdue University
+* Daniel Levy, Stanford University
+* Daniel Kang, Stanford University
+* Golnoosh Farnadi, UC Santa Cruz
+* Guilherme Gomes, Purdue University
+* Happy MIttal, IIT Delhi
+* Hima Lakkaraju, Stanford University
+* Jared Dunnmon, Stanford University
+* Jiaming Song, Stanford University
+* Jian Zhang, Stanford University
+* Jiasen Yang, Purdue University
+* Jiaxuan You, Stanford University
+* Kristy Choi, Stanford University
+* Marinka Zetnik, Stanford University
+* Maruan Al-Shedivat, CMU
+* Max Lam, Stanford University
+* Megan Leszczynski, Stanford University
+* Mengyue Hang, Purdue University
+* Nikolaos Vasiloglou, RelationalAI
+* Oleksandr Polozov, Microsoft Research
+* Rex Ying, Stanford University
+* Sen Wu, Stanford University
+* Tal Friedman, UCLA
+* Thomas Kipf, University of Amsterdam
+* Tony Ginart, Stanford University
+* Tri Dao, Stanford University
+* Will Hamilton, Stanford University
+* Yang Song, Stanford University
+* Yitao Liang, UCLA
+* Yujia Li, DeepMind
+* Zhaobin Kuang, Stanford University
