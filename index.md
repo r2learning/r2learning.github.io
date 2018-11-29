@@ -39,8 +39,8 @@ This workshop aims to bring together researchers from both academia and industry
 |8:30-8:45 AM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  Welcome  |
 |8:45-9:00 AM  | **Contributed Talk:** Charlotte Bunne <br/> *Learning Generative Models across Incomparable Spaces*  |
 |9:00-9:30 AM  |  **Invited Talk:** Marina Meila  |
-|11:00-11:15 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
-|9:45-10:30 AM | **Invited Talk:**  Timothy Lillicrap   |
+|9:30-9:45 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
+|9:45-10:15 AM | **Invited Talk:**  Timothy Lillicrap   |
 |10:15-10:30 AM| **Poster Spotlights Talks** |
 |10:30-11:00 AM| Coffee Break + Poster Session 1  |
 |11:00-11:30 AM| **Invited Talk:**  Joan Bruna  <br/> *Community Detection with Non-backtracking Graph Neural Networks* |
