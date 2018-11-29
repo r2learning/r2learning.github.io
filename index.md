@@ -16,7 +16,7 @@ This workshop aims to bring together researchers from both academia and industry
 
 ## <a name="speakers"></a> Invited Speakers & Panelists
 
-*Invited Speakers*  
+*Speakers*  
 [Joan Bruna](https://cims.nyu.edu/~bruna/), New York University    
 [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington   
 [Lise Getoor](https://getoor.soe.ucsc.edu/home), University of California, Santa Cruz   
