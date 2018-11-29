@@ -5,7 +5,7 @@ title: Relational Representation Learning
 
 ## <a name="overview"></a> Overview
 
-**Date:** December 8, 2018  
+**Date and Time:** 8:45 AM - 6:00 PM, December 8, 2018  
 **Location:** Room 517A, Palais des Congrès de Montréal, Montréal, Canada
 
 Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, chemical and biological processes, code analysis, and decision-making in multi-agent systems.
@@ -29,8 +29,8 @@ This workshop aims to bring together researchers from both academia and industry
 [Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind     
 [Marina Meila](https://www.stat.washington.edu/mmp/), University of Washington   
 [Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research     
-[Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind    
-More TBA! 
+<!-- [Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind    
+More TBA!  -->
 
 ## <a name="schedule"></a> Schedule
 Coming Soon!
