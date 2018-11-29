@@ -36,25 +36,25 @@ This workshop aims to bring together researchers from both academia and industry
 
 | **Time**  | **Event**|
 |-----------------------------------------------|-----------------------------------------------------------------------------------|
-|8:45-9:00 AM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  Welcome  |
+|8:30-8:45 AM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  Welcome  |
+|8:45-9:00 AM  | **Contributed Talk:** Charlotte Bunne <br/> *Learning Generative Models across Incomparable Spaces*  |
 |9:00-9:30 AM  |  **Invited Talk:** Marina Meila  |
-|9:30-9:45 AM  | **Contributed Talk:** Charlotte Bunne <br/> *Learning Generative Models across Incomparable Spaces*  |
-|9:45-10:30 AM | **Invited Talk:**  Maximilian Nickel   |
+|11:00-11:15 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
+|9:45-10:30 AM | **Invited Talk:**  Timothy Lillicrap   |
 |10:15-10:30 AM| **Poster Spotlights Talks** |
 |10:30-11:00 AM| Coffee Break + Poster Session 1  |
-|11:00-11:15 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
-|11:15-11:45 AM| **Invited Talk:**  Timothy Lillicrap   |
-|11:45-12:00 PM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
-|12:00-2:00 PM | Lunch |
+|11:00-11:30 AM| **Invited Talk:**  Joan Bruna  <br/> *Community Detection with Non-backtracking Graph Neural Networks* |
+|11:30-11:45 AM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
+|11:45-12:15 AM| **Invited Talk:**  Maximilian Nickel   |
+|12:15-2:00 PM | Lunch |
 |2:00-2:30 PM  | **Invited Talk:** Lise Getoor|
 |2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved addressing in the Differentiable Neural Computer*|
 |2:45-3:00 PM  | **Poster Spotlight Talks**|
 |3:00-3:30 PM  | Coffee Break + Poster Session 2|
-|3:30-4:00 PM  | **Invited Talk:**  Joan Bruna|
-|4:00-4:30 PM  | **Invited Talk:**  Pedro Domingos| 
-|4:30-5:15 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
-|5:15-5:30 PM  | Closing Remarks|
-|5:30-6:30 PM  | Poster Session|
+|3:30-4:00 PM  | **Invited Talk:**  Pedro Domingos|
+|4:00-4:45 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
+|4:45-5:45 PM  |  Poster Session|
+|5:45-6:00 PM  | Closing Remarks|
 
 <!-- ## <a name="submission"></a> Call for Papers
 ### Paper Submission Instructions
