@@ -21,11 +21,30 @@ This workshop aims to bring together researchers from both academia and industry
 [Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php), Google Deepmind     
 [Marina Meila](https://www.stat.washington.edu/mmp/), University of Washington   
 [Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research     
-<!-- [Oriol Vinyals](https://ai.google/research/people/OriolVinyals), Google Deepmind    
-More TBA!  -->
 
 ## <a name="schedule"></a> Schedule
-Coming Soon!
+
+| **Time**  | **Event**|
+|-----------------------------------------------|-----------------------------------------------------------------------------------|
+|8:45-9:00 AM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  Welcome  |
+|9:00-9:30 AM  |  **Invited Talk:** Marina Meila  |
+|9:30-9:45 AM  | **Contributed Talk:** Charlotte Bunne <br/> *Learning Generative Models across Incomparable Spaces*  |
+|9:45-10:30 AM | **Invited Talk:**  Maximilian Nickel   |
+|10:15-10:30 AM| **Poster Spotlights Talks** |
+|10:30-11:00 AM| Coffee Break + Poster Session 1  |
+|11:00-11:15 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
+|11:15-11:45 AM| **Invited Talk:**  Timothy Lillicrap   |
+|11:45-12:00 PM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
+|12:00-2:00 PM | Lunch |
+|2:00-2:30 PM  | **Invited Talk:** Lise Getoor|
+|2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved addressing in the Differentiable Neural Computer*|
+|2:45-3:00 PM  | **Poster Spotlight Talks**|
+|3:00-3:30 PM  | Coffee Break + Poster Session 2|
+|3:30-4:00 PM  | **Invited Talk:**  Joan Bruna|
+|4:00-4:30 PM  | **Invited Talk:**  Pedro Domingos| 
+|4:30-5:00 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
+|5:15-5:30 PM  | Closing Remarks|
+|5:30-6:30 PM  | Poster Session|
 
 <!-- ## <a name="submission"></a> Call for Papers
 ### Paper Submission Instructions
@@ -118,11 +137,10 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Quantum Machine Learning on Knowledge Graphs](assets/papers/CameraReadySubmission 39.pdf). Yunpu Ma, Volker Tresp 
 
 ## Program Committee
-Thank you to our programming committee who reviewed submitted papers!
 
 * Albert Gu, Stanford University
-* Alexander Ratner, Stanford University
 * Alexander Gaunt, Microsoft Research
+* Alexander Ratner, Stanford University
 * Avner May, Stanford University
 * Beliz Gunel, Stanford University
 * Bryan He, Stanford University
@@ -132,15 +150,15 @@ Thank you to our programming committee who reviewed submitted papers!
 * Daniel Kang, Stanford University
 * Golnoosh Farnadi, UC Santa Cruz
 * Guilherme Gomes, Purdue University
-* Happy MIttal, IIT Delhi
-* Hima Lakkaraju, Stanford University
+* Happy Mittal, IIT Delhi
+* Hima Lakkaraju, Harvard University
 * Jared Dunnmon, Stanford University
 * Jiaming Song, Stanford University
 * Jian Zhang, Stanford University
 * Jiasen Yang, Purdue University
 * Jiaxuan You, Stanford University
 * Kristy Choi, Stanford University
-* Marinka Zetnik, Stanford University
+* Marinka Zitnik, Stanford University
 * Maruan Al-Shedivat, CMU
 * Max Lam, Stanford University
 * Megan Leszczynski, Stanford University
@@ -153,7 +171,7 @@ Thank you to our programming committee who reviewed submitted papers!
 * Thomas Kipf, University of Amsterdam
 * Tony Ginart, Stanford University
 * Tri Dao, Stanford University
-* Will Hamilton, Stanford University
+* William Hamilton, McGill
 * Yang Song, Stanford University
 * Yitao Liang, UCLA
 * Yujia Li, DeepMind
