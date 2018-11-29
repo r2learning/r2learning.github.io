@@ -25,9 +25,11 @@ This workshop aims to bring together researchers from both academia and industry
 [Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research  
 
 *Panelists*  
+[Aditya Grover](http://aditya-grover.github.io/), Stanford University  
 [William Hamilton](https://williamleif.github.io/), McGill/Facebook Artificial Intelligence Research  
 [Jessica Hamrick](http://www.jesshamrick.com/), Google Deepmind  
 [Thomas Kipf](https://tkipf.github.io/), University of Amsterdam  
+[Paroma Varma](https://paroma.github.io/), Stanford University  
 [Marinka Zitnik](https://stanford.edu/~marinka/), Stanford University  
 
 ## <a name="schedule"></a> Schedule
