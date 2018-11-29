@@ -15,6 +15,8 @@ How should we rethink classical representation learning theory for relational re
 This workshop aims to bring together researchers from both academia and industry interested in addressing various aspects of representation learning for relational reasoning. 
 
 ## <a name="speakers"></a> Invited Speakers & Panelists
+
+*Invited Speakers*  
 [Joan Bruna](https://cims.nyu.edu/~bruna/), New York University    
 [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/), University of Washington   
 [Lise Getoor](https://getoor.soe.ucsc.edu/home), University of California, Santa Cruz   
@@ -22,6 +24,11 @@ This workshop aims to bring together researchers from both academia and industry
 [Marina Meila](https://www.stat.washington.edu/mmp/), University of Washington   
 [Maximilian Nickel](https://mnick.github.io/), Facebook Artificial Intelligence Research  
 
+*Panelists*  
+[William Hamilton](https://williamleif.github.io/), McGill/Facebook Artificial Intelligence Research  
+[Jessica Hamrick](http://www.jesshamrick.com/), Google Deepmind  
+[Thomas Kipf](https://tkipf.github.io/), University of Amsterdam  
+[Marinka Zitnik](https://stanford.edu/~marinka/), Stanford University  
 
 ## <a name="schedule"></a> Schedule
 
@@ -43,7 +50,7 @@ This workshop aims to bring together researchers from both academia and industry
 |3:00-3:30 PM  | Coffee Break + Poster Session 2|
 |3:30-4:00 PM  | **Invited Talk:**  Joan Bruna|
 |4:00-4:30 PM  | **Invited Talk:**  Pedro Domingos| 
-|4:30-5:15 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilto, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
+|4:30-5:15 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
 |5:15-5:30 PM  | Closing Remarks|
 |5:30-6:30 PM  | Poster Session|
 
@@ -172,7 +179,7 @@ All accepted papers will be included in one of the two poster presentation and l
 * Thomas Kipf, University of Amsterdam
 * Tony Ginart, Stanford University
 * Tri Dao, Stanford University
-* William Hamilton, McGill
+* William Hamilton, McGill/Facebook Artificial Intelligence Research
 * Yang Song, Stanford University
 * Yitao Liang, UCLA
 * Yujia Li, DeepMind
