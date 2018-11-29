@@ -146,7 +146,8 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Learning Embeddings for Approximate Lifted Inference in MLNs](assets/papers/CameraReadySubmission 48.pdf). Maminur Islam, Somdeb Sarkhel, Deepak Venugopal 
 * [Quantum Machine Learning on Knowledge Graphs](assets/papers/CameraReadySubmission 39.pdf). Yunpu Ma, Volker Tresp 
 
-## Program Committee
+
+## <a name="committee"></a> Program Committee
 
 * Albert Gu, Stanford University
 * Alexander Gaunt, Microsoft Research
