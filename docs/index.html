@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124409515-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-124409515-1');
+    </script>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.4.0 -->
@@ -27,9 +36,9 @@
       <h2 class="project-tagline">NIPS 2018 Workshop</h2>
       <a href="#overview" class="btn">Overview</a>
       <a href="#speakers" class="btn">Speakers</a>
-      <a href="#speakers" class="btn">Organizers</a>
-      <a href="#submission" class="btn">Submission</a>
       <a href="#schedule" class="btn">Schedule</a>
+      <a href="#submission" class="btn">Submission</a>
+      <a href="#organizers" class="btn">Organizers</a>
     </section>
 
     <section class="main-content">
@@ -38,30 +47,61 @@
 <p><strong>Date:</strong> December 8, 2018<br />
 <strong>Location:</strong> Palais des Congrès de Montréal, Montréal, Canada</p>
 
-<p>Relational reasoning, <em>i.e.</em>, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas like scene understanding, visual question-answering, chemical and biological processes, code analysis, and decision-making in multi-agent systems.</p>
+<p>Relational reasoning, <em>i.e.</em>, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas such as scene understanding, visual question-answering, understanding chemical and biological processes, program synthesis and analysis, decision-making in multi-agent systems and many others.</p>
 
 <p>How should we rethink classical representation learning theory for relational representations? Classical approaches based on dimensionality reduction techniques such as isoMap and spectral decompositions still serve as strong baselines and are slowly paving the way for modern methods in relational representation learning based on random walks over graphs, message-passing in neural networks, group-invariant deep architectures etc. amongst many others. How can systems be designed and potentially deployed for large scale representation learning? What are promising avenues, beyond traditional applications like knowledge base and social network analysis, that can benefit from relational representation learning?</p>
 
-<p>This workshop aims to bring together researchers from both academia and industry interested in addressing various aspects of representation learning for relational reasoning. Topics include, but are not limited to:</p>
-
-<ul>
-  <li>Algorithmic approaches: embedding methods, probabilistic approaches based on latent variable modeling, message-passing neural networks, dimensionality reduction techniques etc. for relational data</li>
-  <li>How to evaluate relational representations in terms of trade-offs with different learning objectives?</li>
-  <li>Theoretical aspects: when and why do learned representations aid relational reasoning? How does the non-i.i.d. nature of relational data conflict with our current understanding of representation learning?</li>
-  <li>Optimization and scalability challenges due to the inherent discreteness and curse of dimensionality of relational datasets and challenges in negative sampling</li>
-  <li>Domain-specific applications of relational representation learning in areas like graph mining, natural language processing, reinforcement learning, programming language analysis etc.</li>
-  <li>Any other topic of interest for relational representation learning</li>
-</ul>
+<p>This workshop aims to bring together researchers from both academia and industry interested in addressing various aspects of representation learning for relational reasoning.</p>
 
 <h2 id="-invited-speakers"><a name="speakers"></a> Invited Speakers</h2>
-<p><a href="https://cims.nyu.edu/~bruna/">Joan Bruna</a>, New York University<br />
-<a href="https://homes.cs.washington.edu/~pedrod/">Pedro Domingos</a>, University of Washington<br />
-<a href="http://contrastiveconvergence.net/~timothylillicrap/index.php">Timothy Lillicrap</a>, Google Deepmind<br />
-<a href="https://mnick.github.io/">Maximilian Nickel</a>, Facebook Artificial Intelligence Research<br />
-<a href="https://ai.google/research/people/OriolVinyals">Oriol Vinyals</a>, Google Deepmind<br />
-More TBA</p>
+<p><a href="https://cims.nyu.edu/~bruna/">Joan Bruna</a>, New York University  <br />
+<a href="https://homes.cs.washington.edu/~pedrod/">Pedro Domingos</a>, University of Washington <br />
+<a href="https://getoor.soe.ucsc.edu/home">Lise Getoor</a>, University of California, Santa Cruz <br />
+<a href="http://contrastiveconvergence.net/~timothylillicrap/index.php">Timothy Lillicrap</a>, Google Deepmind   <br />
+<a href="https://www.stat.washington.edu/mmp/">Marina Meila</a>, University of Washington <br />
+<a href="https://mnick.github.io/">Maximilian Nickel</a>, Facebook Artificial Intelligence Research   <br />
+<a href="https://ai.google/research/people/OriolVinyals">Oriol Vinyals</a>, Google Deepmind</p>
 
-<h2 id="organizers-">Organizers <a name="speakers"></a></h2>
+<h2 id="-schedule"><a name="schedule"></a> Schedule</h2>
+<p>Coming Soon!</p>
+
+<h2 id="-call-for-papers"><a name="submission"></a> Call for Papers</h2>
+<p>Topics include, but are not limited to:</p>
+
+<ul>
+  <li>Algorithmic approaches: E.g., probabilistic generative models, message-passing neural networks, embedding methods, dimensionality reduction techniques, group-invariant architectures etc. for relational data</li>
+  <li>Theoretical aspects: E.g., when and why do learned representations aid relational reasoning? How does the non-i.i.d. nature of relational data conflict with our current understanding of representation learning?</li>
+  <li>Optimization and scalability challenges due to the inherent discreteness and curse of dimensionality of relational datasets</li>
+  <li>Evaluation of learned relational representations</li>
+  <li>Security and privacy challenges</li>
+  <li>Domain-specific applications</li>
+  <li>Any other topic of interest</li>
+</ul>
+
+<p>We welcome and encourage position papers on this subject. We are also particularly interested in papers that introduce datasets and competitions to further progress in the field.</p>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+<p>Workshop papers should be at most <strong>4 pages of content</strong>, including text and figures, excluding references. Authors can include an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.</p>
+
+<p>Papers should be anonymized and adhere to the NIPS conference format: <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">https://nips.cc/Conferences/2018/PaperInformation/StyleFiles</a></p>
+
+<p><strong>Submission Site:</strong> <a href="https://cmt3.research.microsoft.com/R2L2018">https://cmt3.research.microsoft.com/R2L2018</a></p>
+
+<h3 id="peer-review-and-acceptance-criteria">Peer Review and Acceptance Criteria</h3>
+<p>All submissions will go through a double-blind peer review process. Accepted papers will be chosen based on techincal merit, interest, and novelty. The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. Authors should state any overlapping published work at the time of submission.</p>
+
+<p>All accepted papers will be included in one of the two poster presentation and lightning talk sessions on the day of the workshop. Some accepted papers will be invited to give contributed oral talks. Final versions of accepted papers will be posted on the workshop website. These are archival but do not constitute a proceedings and can be submitted elsewhere.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+<ul>
+  <li><strong>Submission Deadline: October 19th, 2018, 23:59 PST</strong></li>
+  <li>Notification of Acceptance: November 2nd, 2018</li>
+  <li>Camera-ready Due: November 16th, 2018</li>
+  <li>Workshop: December 8, 2018</li>
+  <li>Contact: r2learning@googlegroups.com</li>
+</ul>
+
+<h2 id="organizers-">Organizers <a name="organizers"></a></h2>
 <p><a href="http://aditya-grover.github.io/">Aditya Grover</a>, Stanford University<br />
 <a href="https://paroma.github.io/">Paroma Varma</a>, Stanford University <br />
 <a href="https://stanford.edu/~fredsala/">Fred Sala</a>, Stanford University<br />
@@ -69,12 +109,6 @@ More TBA</p>
 <a href="https://www.cs.purdue.edu/homes/neville/index.html">Jennifer Neville</a>, Purdue University<br />
 <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>, Stanford University<br />
 <a href="https://cs.stanford.edu/people/chrismre/">Christopher Ré</a>, Stanford University</p>
-
-<h2 id="-call-for-papers"><a name="submission"></a> Call for Papers</h2>
-<p>Coming soon!</p>
-
-<h2 id="-schedule"><a name="schedule"></a> Schedule</h2>
-<p>Coming soon!</p>
 
 
       <footer class="site-footer">
