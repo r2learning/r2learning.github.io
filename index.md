@@ -120,14 +120,14 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Variational learning across domains with triplet information](https://arxiv.org/pdf/1806.08672.pdf). Rita Kuznetsova 
 * Fast k-Nearest Neighbour Search via Prioritized DCI. Ke Li, Jitendra Malik 
 * [Deep Determinantal Point Processes](https://arxiv.org/pdf/1811.07245.pdf). Mike Gartrell, Elvis Dohmatob 
-* [Higher-Order Graph Convolutional Layer](http://sami.haija.org/assets/papers/high-order-gc-layer.pdf). Sami A Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Hrayr Harutyunyan 
+* [Higher-Order Graph Convolutional Layer](http://sami.haija.org/papers/high-order-gc-layer.pdf). Sami A Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Hrayr Harutyunyan 
 * [Convolutional Set Matching for Graph Similarity](http://yunshengb.com/wp-content/uploads/2018/11/Convolutional_Set_Matching_for_Graph_Similarity.pdf). Yunsheng Bai, Hao Ding, Yizhou Sun, Wei Wang 
 * [Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations](https://arxiv.org/pdf/1811.04784.pdf). Xander Steenbrugge, Tim Verbelen, Bart Dhoedt, Sam Leroux 
 * [From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features](assets/papers/RGE_NIPS18_RRL_Workshop.pdf). Lingfei Wu, Ian En-Hsu Yen, Kun Xu, Liang Zhao, Yinglong Xia, Michael Witbrock
 * [A Neural Framework for Learning DAG to DAG Translation](http://www.ccs.neu.edu/home/clara/resources/neural-framework-learning.pdf). M. Clara De Paolis Kaluza, Saeed Amizadeh, Rose Yu
 * [Semi-supervised learning for clusterable graph embeddings with NMF](https://priyeshv.github.io/R2L_SSNMF.pdf). Priyesh Vijayan, Anasua Mitra, Srinivasan Parthasarathy, Balaraman Ravindran 
-* [Lifted Inference for Faster Training in end-to-end neural-CRF models](http://www.cse.iitd.ac.in/~mausam/assets/papers/nipswork18.pdf). Yatin Nandwani, Ankit Anand, Mausam , Parag Singla 
-* [Link Prediction in Dynamic Graphs for Recommendation](https://www.ic.unicamp.br/~ra188964/assets/papers/Link_Prediction_in_Dynamic_Graphs_for_Recommendation.pdf). Samuel G. Fadel, Ricardo Torres 
+* [Lifted Inference for Faster Training in end-to-end neural-CRF models](http://www.cse.iitd.ac.in/~mausam/papers/nipswork18.pdf). Yatin Nandwani, Ankit Anand, Mausam , Parag Singla 
+* [Link Prediction in Dynamic Graphs for Recommendation](https://arxiv.org/pdf/1811.07174.pdf). Samuel G. Fadel, Ricardo Torres 
 * Curvature and Representation Learning: Identifying Embedding Spaces for Relational Data. Maximillian Nickel 
 * [Multi-Task Graph Autoencoders](https://arxiv.org/pdf/1811.02798.pdf). Phi Vu Tran 
 * [Personalized Neural Embeddings for Collaborative Filtering with Text](assets/papers/CameraReadySubmission 2.pdf). Guangneng Hu, Yu Zhang 
