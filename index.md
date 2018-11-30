@@ -83,7 +83,7 @@ All accepted papers will be included in one of the two poster presentation and l
 * [GRevnet: Improving Graph Neural Nets with Reversible Computation](https://drive.google.com/file/d/1UYsTSnyKjl6MAox9vwGtV77wB_3vMavR/view?usp=sharing ). Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky 
 * [Detecting the Coarse Geometry of Networks](https://www.mis.mpg.de/preprints/2018/preprint2018_97.pdf). Melanie Weber, Emil Saucan, Jürgen Jost 
 * [Modeling Attention Flow on Graphs](https://xiaoranxu.com/files/attflow_short_Xu.pdf). Xiaoran Xu 
-* [Learning Generative Models across Incomparable Spaces](https://polybox.ethz.ch/index.php/s/rZ53hhP9pyUor56). Charlotte Bunne, Stefanie Jegelka, David Alvarez-Melis, Andreas Krause 
+* [Learning Generative Models across Incomparable Spaces](https://www.bunne.ch/paper/Bunne_2018_NeurIPS_R2L.pdf). Charlotte Bunne, Stefanie Jegelka, David Alvarez-Melis, Andreas Krause 
 * [Hierarchical Bipartite Graph Convolution Networks](https://drive.google.com/file/d/1cJabrT7Y_HN2DTuIkJz7kWiAFIlz9OOt/view?usp=sharing). Marcel Nassar 
 * [Non-local RoI for Cross-Object Perception](https://drive.google.com/open?id=1idZrhvIL8n2rGWyz2x3fLOByrqeSsRz5). Shou-Yao Tseng, Hwann-Tzong Chen, Shao-Heng Tai, Tyng-Luh Liu 
 * [Node Attribute Prediction: An Evaluation of Within- versus Across-Network Tasks](http://stanford.edu/~jugander/assets/papers/nips18w-withinacross.pdf). Kristen M. Altenburger, Johan Ugander 
@@ -99,7 +99,7 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Semi-supervised learning for clusterable graph embeddings with NMF](https://priyeshv.github.io/R2L_SSNMF.pdf). Priyesh Vijayan, Anasua Mitra, Srinivasan Parthasarathy, Balaraman Ravindran 
 * [Lifted Inference for Faster Training in end-to-end neural-CRF models](http://www.cse.iitd.ac.in/~mausam/assets/papers/nipswork18.pdf). Yatin Nandwani, Ankit Anand, Mausam , Parag Singla 
 * [Link Prediction in Dynamic Graphs for Recommendation](https://www.ic.unicamp.br/~ra188964/assets/papers/Link_Prediction_in_Dynamic_Graphs_for_Recommendation.pdf). Samuel G. Fadel, Ricardo Torres 
-* Curvature and Representation Learning: Identifying Embedding Spaces for Relational Data. Maximillian Nickel 
+* Curvature and Representation Learning: Identifying Embedding Spaces for Relational Data. Melanie Weber, Maximillian Nickel 
 * [Multi-Task Graph Autoencoders](https://arxiv.org/pdf/1811.02798.pdf). Phi Vu Tran 
 * [Personalized Neural Embeddings for Collaborative Filtering with Text](assets/papers/CameraReadySubmission 2.pdf). Guangneng Hu, Yu Zhang 
 * [Symbolic Relation Networks for Reinforcement Learning](assets/papers/CameraReadySubmission 3.pdf). Dhaval D Adjodah, Tim Klinger, Josh Joseph 
