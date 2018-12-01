@@ -47,11 +47,11 @@ This workshop aims to bring together researchers from both academia and industry
 |11:30-11:45 AM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
 |11:45-12:15 PM| **Invited Talk:**  Maximilian Nickel   |
 |12:15-2:00 PM | Lunch |
-|2:00-2:30 PM  | **Invited Talk:** Lise Getoor|
-|2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved addressing in the Differentiable Neural Computer*|
+|2:00-2:30 PM  | **Invited Talk:** Lise Getoor <br/> *The Power of Structure: Exploiting Relationships for Representation Learning* |
+|2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved Addressing in the Differentiable Neural Computer*|
 |2:45-3:00 PM  | **Poster Spotlight Talks**|
 |3:00-3:30 PM  | Coffee Break + Poster Session 2|
-|3:30-4:00 PM  | **Invited Talk:**  Pedro Domingos|
+|3:30-4:00 PM  | **Invited Talk:**  Pedro Domingos <br/> *The Power of Objects and Relations in Deep Reinforcement Learning*|
 |4:00-4:45 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
 |4:45-5:45 PM  |  Poster Session|
 |5:45-6:00 PM  | Closing Remarks|
