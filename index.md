@@ -45,7 +45,7 @@ This workshop aims to bring together researchers from both academia and industry
 |10:30-11:00 AM| Coffee Break + Poster Session 1  |
 |11:00-11:30 AM| **Invited Talk:**  Joan Bruna  <br/> *Community Detection with Non-backtracking Graph Neural Networks* |
 |11:30-11:45 AM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
-|11:45-12:15 PM| **Invited Talk:**  Maximilian Nickel   |
+|11:45-12:15 PM| **Invited Talk:**  Maximilian Nickel <br/>  *Geometric Representation Learning in Relational Domains*|
 |12:15-2:00 PM | Lunch |
 |2:00-2:30 PM  | **Invited Talk:** Lise Getoor <br/> *The Power of Structure: Exploiting Relationships for Representation Learning* |
 |2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved Addressing in the Differentiable Neural Computer*|
