@@ -76,12 +76,11 @@ All accepted papers will be included in one of the two poster presentation and l
 
 All accepted papers will be included in one of the two poster presentation and lightning talk sessions on the day of the workshop. Some accepted papers will be invited to give a contributed oral talks.  -->
 
-### Important Dates 
+<!-- ### Important Dates 
 * **Submission Deadline: October 19th, 2018, 23:59 PST**
 * Notification of Acceptance: November 2nd, 2018
 * Camera-ready Due: November 16th, 2018
-* Workshop: December 8, 2018
-* Contact: r2learning@googlegroups.com
+* Workshop: December 8, 2018 -->
 
 ## <a name="organizers"></a> Organizers 
 [Aditya Grover](http://aditya-grover.github.io/), Stanford University  
@@ -91,6 +90,8 @@ All accepted papers will be included in one of the two poster presentation and l
 [Jennifer Neville](https://www.cs.purdue.edu/homes/neville/index.html), Purdue University  
 [Stefano Ermon](https://cs.stanford.edu/~ermon/), Stanford University  
 [Christopher Ré](https://cs.stanford.edu/people/chrismre/), Stanford University
+
+**Contact: [r2learning@googlegroups.com](mailto:r2learning@googlegroups.com)**
 
 ## <a name="papers"></a> Accepted Papers 
 * [On the Complexity of Exploration in Goal-driven Navigation](assets/papers/hippo-r2l-camera-ready.pdf). Maruan Al-Shedivat, Lisa Lee, Ruslan Salakhutdinov, Eric Xing 
@@ -105,17 +106,17 @@ All accepted papers will be included in one of the two poster presentation and l
 * Using Ternary Rewards to Reason over Knowledge Graphs with Deep Reinforcement Learning. Frederic Godin, Anjishnu Kumar, Arpit Mittal 
 * [A Case for Object Compositionality in GANs](https://drive.google.com/open?id=1HtZqg5mFXm3xeM-8Q8O1DlAd-2apGaik). Sjoerd van Steenkiste, Karol Kurach, Sylvain Gelly 
 * [Learning DPPs by Sampling Inferred Negatives](https://zelda.lids.mit.edu/wp-content/uploads/sites/17/2018/11/nips_workshop.pdf). Zelda Mariet, Mike Gartrell, Suvrit Sra 
-* [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](http://www.cs.toronto.edu/~rjliao/assets/papers/NIPS_R2L_lanczos_net.pdf). Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel 
+* [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](http://www.cs.toronto.edu/~rjliao/papers/NIPS_R2L_lanczos_net.pdf). Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel 
 * [Chess2vec: Learning Vector Representations for Chess](http://www.berkkapicioglu.com/wp-content/uploads/2018/11/chess2vec_nips_2018_short.pdf). Berk Kapicioglu, Ramiz Iqbal 
 * [Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models](http://wushanshan.github.io/files/GraphicalModel_workshop.pdf). Shanshan Wu, Sujay Sanghavi, Alex Dimakis 
 * [Towards Sparse Hierarchical Graph Classifiers](http://petar-v.com/spcls_nips18_camera.pdf). Catalina Cangea, Petar Veličković, Nikola Jovanović, Thomas Kipf, Pietro Liò 
 * [GRevnet: Improving Graph Neural Nets with Reversible Computation](https://drive.google.com/file/d/1UYsTSnyKjl6MAox9vwGtV77wB_3vMavR/view?usp=sharing ). Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky 
 * [Detecting the Coarse Geometry of Networks](https://www.mis.mpg.de/preprints/2018/preprint2018_97.pdf). Melanie Weber, Emil Saucan, Jürgen Jost 
 * [Modeling Attention Flow on Graphs](https://xiaoranxu.com/files/attflow_short_Xu.pdf). Xiaoran Xu 
-* [Learning Generative Models across Incomparable Spaces](https://www.bunne.ch/paper/Bunne_2018_NeurIPS_R2L.pdf). Charlotte Bunne, Stefanie Jegelka, David Alvarez-Melis, Andreas Krause 
+* [Learning Generative Models across Incomparable Spaces](https://www.bunne.ch/paper/Bunne_2018_NeurIPS_R2L.pdf). Charlotte Bunne, David Alvarez-Melis, Andreas Krause , Stefanie Jegelka
 * [Hierarchical Bipartite Graph Convolution Networks](https://drive.google.com/file/d/1cJabrT7Y_HN2DTuIkJz7kWiAFIlz9OOt/view?usp=sharing). Marcel Nassar 
 * [Non-local RoI for Cross-Object Perception](https://drive.google.com/open?id=1idZrhvIL8n2rGWyz2x3fLOByrqeSsRz5). Shou-Yao Tseng, Hwann-Tzong Chen, Shao-Heng Tai, Tyng-Luh Liu 
-* [Node Attribute Prediction: An Evaluation of Within- versus Across-Network Tasks](http://stanford.edu/~jugander/assets/papers/nips18w-withinacross.pdf). Kristen M. Altenburger, Johan Ugander 
+* [Node Attribute Prediction: An Evaluation of Within- versus Across-Network Tasks]( http://stanford.edu/~jugander/papers/neurips18w-withinacross.pdf). Kristen M. Altenburger, Johan Ugander 
 * Implicit Maximum Likelihood Estimation. Ke Li, Jitendra Malik 
 * [Variational learning across domains with triplet information](https://arxiv.org/pdf/1806.08672.pdf). Rita Kuznetsova 
 * Fast k-Nearest Neighbour Search via Prioritized DCI. Ke Li, Jitendra Malik 
