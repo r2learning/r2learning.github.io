@@ -40,7 +40,7 @@ This workshop aims to bring together researchers from both academia and industry
 |-----------------------------------------------|-----------------------------------------------------------------------------------|
 |8:30-8:45 AM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  Welcome  |
 |8:45-9:00 AM  | **Contributed Talk:** Charlotte Bunne <br/> *Learning Generative Models across Incomparable Spaces*  |
-|9:00-9:30 AM  |  **Invited Talk:** Marina Meila  |
+|9:00-9:30 AM  |  **Invited Talk:** Marina Meila <br/> *Measuring robustness from a single graph* |
 |9:30-9:45 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
 |9:45-10:15 AM | **Invited Talk:**  Timothy Lillicrap   |
 |10:15-10:30 AM| Poster Spotlights Talks |
@@ -56,7 +56,7 @@ This workshop aims to bring together researchers from both academia and industry
 |3:30-4:00 PM  | **Invited Talk:**  Pedro Domingos <br/> *The Power of Objects and Relations in Deep Reinforcement Learning*|
 |4:00-4:45 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
 |4:45-5:45 PM  |  Poster Session|
-|5:45-6:00 PM  | Closing Remarks|
+|5:45-6:00 PM  | Awards + Closing Remarks|
 
 <!-- ## <a name="submission"></a> Call for Papers
 ### Paper Submission Instructions
@@ -154,7 +154,7 @@ Maximillian Nickel
 ## <a name="committee"></a> Program Committee
 
 * Albert Gu, Stanford University
-* Alexander Gaunt, Microsoft Research
+* Alexander Gaunt, Microsoft Research **Best Reviewer Award**
 * Alexander Ratner, Stanford University
 * Avner May, Stanford University
 * Beliz Gunel, Stanford University
