@@ -3,7 +3,7 @@ layout: default
 title: Relational Representation Learning
 ---
 
-Submit your questions for the panel [here](bit.ly/2Sw9dQd).
+**New:** Submit your questions for the panel [here](https://bit.ly/2Sw9dQd)!
 
 ## <a name="overview"></a> Overview
 
