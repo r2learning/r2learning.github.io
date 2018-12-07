@@ -3,6 +3,8 @@ layout: default
 title: Relational Representation Learning
 ---
 
+Submit your questions for the panel [here](bit.ly/2Sw9dQd).
+
 ## <a name="overview"></a> Overview
 
 **Date and Time:** 8:45 AM - 6:00 PM, December 8, 2018  
@@ -41,15 +43,15 @@ This workshop aims to bring together researchers from both academia and industry
 |9:00-9:30 AM  |  **Invited Talk:** Marina Meila  |
 |9:30-9:45 AM| **Contributed Talk:** Lingfei Wu <br/> *From Node Embedding to Graph Embedding: Scalable Global Graph Kernel via Random Features*|
 |9:45-10:15 AM | **Invited Talk:**  Timothy Lillicrap   |
-|10:15-10:30 AM| **Poster Spotlights Talks** |
+|10:15-10:30 AM| Poster Spotlights Talks |
 |10:30-11:00 AM| Coffee Break + Poster Session 1  |
 |11:00-11:30 AM| **Invited Talk:**  Joan Bruna  <br/> *Community Detection with Non-backtracking Graph Neural Networks* |
 |11:30-11:45 AM| **Contributed Talk:** Yunsheng Bai <br/> *Convolutional Set Matching for Graph Similarity*|
-|11:45-12:15 PM| **Invited Talk:**  Maximilian Nickel <br/>  *Geometric Representation Learning in Relational Domains*|
+|11:45-12:15 PM| **Invited Talk:**  Maximilian Nickel <br/> *Geometric Representation Learning in Relational Domains*|
 |12:15-2:00 PM | Lunch |
 |2:00-2:30 PM  | **Invited Talk:** Lise Getoor <br/> *The Power of Structure: Exploiting Relationships for Representation Learning* |
 |2:30-2:45 PM  | **Contributed Talk:** Robert Csordas <br/> *Improved Addressing in the Differentiable Neural Computer*|
-|2:45-3:00 PM  | **Poster Spotlight Talks**|
+|2:45-3:00 PM  | Poster Spotlight Talks|
 |3:00-3:30 PM  | Coffee Break + Poster Session 2|
 |3:30-4:00 PM  | **Invited Talk:**  Pedro Domingos <br/> *The Power of Objects and Relations in Deep Reinforcement Learning*|
 |4:00-4:45 PM  | **Panel** <br/> Moderator: Paroma Varma <br/> Panelists: Aditya Grover, William Hamilton, Jessica Hamrick, Thomas Kipf, Marinka Zitnik|
@@ -117,9 +119,9 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Hierarchical Bipartite Graph Convolution Networks](https://drive.google.com/file/d/1cJabrT7Y_HN2DTuIkJz7kWiAFIlz9OOt/view?usp=sharing). Marcel Nassar 
 * [Non-local RoI for Cross-Object Perception](https://drive.google.com/open?id=1idZrhvIL8n2rGWyz2x3fLOByrqeSsRz5). Shou-Yao Tseng, Hwann-Tzong Chen, Shao-Heng Tai, Tyng-Luh Liu 
 * [Node Attribute Prediction: An Evaluation of Within- versus Across-Network Tasks]( http://stanford.edu/~jugander/papers/neurips18w-withinacross.pdf). Kristen M. Altenburger, Johan Ugander 
-* Implicit Maximum Likelihood Estimation. Ke Li, Jitendra Malik 
+* [Implicit Maximum Likelihood Estimation](https://people.eecs.berkeley.edu/~ke.li/papers/imle_nips18_r2l.pdf). Ke Li, Jitendra Malik 
 * [Variational learning across domains with triplet information](https://arxiv.org/pdf/1806.08672.pdf). Rita Kuznetsova 
-* Fast k-Nearest Neighbour Search via Prioritized DCI. Ke Li, Jitendra Malik 
+* [Fast k-Nearest Neighbour Search via Prioritized DCI](https://people.eecs.berkeley.edu/~ke.li/papers/pdci_nips18_r2l.pdf). Ke Li, Jitendra Malik 
 * [Deep Determinantal Point Processes](https://arxiv.org/pdf/1811.07245.pdf). Mike Gartrell, Elvis Dohmatob 
 * [Higher-Order Graph Convolutional Layer](http://sami.haija.org/papers/high-order-gc-layer.pdf). Sami A Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Hrayr Harutyunyan 
 * [Convolutional Set Matching for Graph Similarity](http://yunshengb.com/wp-content/uploads/2018/11/Convolutional_Set_Matching_for_Graph_Similarity.pdf). Yunsheng Bai, Hao Ding, Yizhou Sun, Wei Wang 
