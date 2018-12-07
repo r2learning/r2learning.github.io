@@ -131,7 +131,8 @@ All accepted papers will be included in one of the two poster presentation and l
 * [Semi-supervised learning for clusterable graph embeddings with NMF](https://priyeshv.github.io/R2L_SSNMF.pdf). Priyesh Vijayan, Anasua Mitra, Srinivasan Parthasarathy, Balaraman Ravindran 
 * [Lifted Inference for Faster Training in end-to-end neural-CRF models](http://www.cse.iitd.ac.in/~mausam/papers/nipswork18.pdf). Yatin Nandwani, Ankit Anand, Mausam , Parag Singla 
 * [Link Prediction in Dynamic Graphs for Recommendation](https://arxiv.org/pdf/1811.07174.pdf). Samuel G. Fadel, Ricardo Torres 
-* Curvature and Representation Learning: Identifying Embedding Spaces for Relational Data. Maximillian Nickel 
+* Curvature and Representation Learning: Identifying Embedding Spaces for Relational Data. Melanie Weber, 
+Maximillian Nickel 
 * [Multi-Task Graph Autoencoders](https://arxiv.org/pdf/1811.02798.pdf). Phi Vu Tran 
 * [Personalized Neural Embeddings for Collaborative Filtering with Text](assets/papers/CameraReadySubmission 2.pdf). Guangneng Hu, Yu Zhang 
 * [Symbolic Relation Networks for Reinforcement Learning](assets/papers/CameraReadySubmission 3.pdf). Dhaval D Adjodah, Tim Klinger, Josh Joseph 
