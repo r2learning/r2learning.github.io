@@ -7,7 +7,7 @@ title: Relational Representation Learning
 
 ## <a name="overview"></a> Overview
 
-**Date and Time:** 8:45 AM - 6:00 PM, December 8, 2018  
+**Date and Time:** 8:30 AM - 6:00 PM, December 8, 2018  
 **Location:** Room 517A, Palais des Congrès de Montréal, Montréal, Canada
 
 Relational reasoning, *i.e.*, learning and inference with relational data, is key to understanding how objects interact with each other and give rise to complex phenomena in the everyday world. Well-known applications include knowledge base completion and social network analysis. Although many relational datasets are available, integrating them directly into modern machine learning algorithms and systems that rely on continuous, gradient-based optimization and make strong i.i.d. assumptions is challenging. Relational representation learning has the potential to overcome these obstacles: it enables the fusion of recent advancements like deep learning and relational reasoning to learn from high-dimensional data. Success of such methods can facilitate novel applications of relational reasoning in areas such as scene understanding, visual question-answering, understanding chemical and biological processes, program synthesis and analysis, decision-making in multi-agent systems and many others.
