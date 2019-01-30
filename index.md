@@ -115,7 +115,7 @@ All accepted papers will be included in one of the two poster presentation and l
 * [GRevnet: Improving Graph Neural Nets with Reversible Computation](https://drive.google.com/file/d/1UYsTSnyKjl6MAox9vwGtV77wB_3vMavR/view?usp=sharing ). Aviral Kumar, Jimmy Ba, Jamie Kiros, Kevin Swersky 
 * [Detecting the Coarse Geometry of Networks](https://www.mis.mpg.de/preprints/2018/preprint2018_97.pdf). Melanie Weber, Emil Saucan, Jürgen Jost 
 * [Modeling Attention Flow on Graphs](https://xiaoranxu.com/files/attflow_short_Xu.pdf). Xiaoran Xu 
-* [Learning Generative Models across Incomparable Spaces](https://www.bunne.ch/paper/Bunne_2018_NeurIPS_R2L.pdf). Charlotte Bunne, David Alvarez-Melis, Andreas Krause , Stefanie Jegelka
+* [Learning Generative Models across Incomparable Spaces](https://www.bunne.ch/paper/Bunne_2018_NeurIPS_R2L.pdf). Charlotte Bunne, David Alvarez-Melis, Andreas Krause , Stefanie Jegelka **Best Paper Award**
 * [Hierarchical Bipartite Graph Convolution Networks](https://drive.google.com/file/d/1cJabrT7Y_HN2DTuIkJz7kWiAFIlz9OOt/view?usp=sharing). Marcel Nassar 
 * [Non-local RoI for Cross-Object Perception](https://drive.google.com/open?id=1idZrhvIL8n2rGWyz2x3fLOByrqeSsRz5). Shou-Yao Tseng, Hwann-Tzong Chen, Shao-Heng Tai, Tyng-Luh Liu 
 * [Node Attribute Prediction: An Evaluation of Within- versus Across-Network Tasks]( http://stanford.edu/~jugander/papers/neurips18w-withinacross.pdf). Kristen M. Altenburger, Johan Ugander 
@@ -148,7 +148,8 @@ Maximillian Nickel
 * [Tensor Random Projection for Low Memory Dimension Reduction](assets/papers/CameraReadySubmission 41.pdf). Yang Guo, Yiming Sun, Madeleine Udell, Joel Tropp 
 * [Leveraging Representation and Inference through Deep Relational Learning](assets/papers/CameraReadySubmission 42.pdf). Maria Leonor Pacheco, Ibrahim Dalal, Dan Goldwasser 
 * [Learning Embeddings for Approximate Lifted Inference in MLNs](assets/papers/CameraReadySubmission 48.pdf). Maminur Islam, Somdeb Sarkhel, Deepak Venugopal 
-* [Quantum Machine Learning on Knowledge Graphs](assets/papers/CameraReadySubmission 39.pdf). Yunpu Ma, Volker Tresp 
+* Quantum Machine Learning on Knowledge Graphs. Yunpu Ma, Volker Tresp 
+<!-- ](assets/papers/CameraReadySubmission 39.pdf) -->
 
 
 ## <a name="committee"></a> Program Committee
